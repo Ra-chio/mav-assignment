@@ -2,9 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Steps to run the project
+## `Steps to run the project`
 
-## `Clone the Project into a local directory`
+## Clone the Project into a local directory ###`mkdir <dir_name>`
+## cd into that directory ###`cd <dir_name>
+## 
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
