@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mav-assignment/static/css/main.e08cba6c.css",
+    "main.js": "/mav-assignment/static/js/main.db91891d.js",
+    "index.html": "/mav-assignment/index.html",
+    "main.e08cba6c.css.map": "/mav-assignment/static/css/main.e08cba6c.css.map",
+    "main.db91891d.js.map": "/mav-assignment/static/js/main.db91891d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e08cba6c.css",
+    "static/js/main.db91891d.js"
+  ]
+}
