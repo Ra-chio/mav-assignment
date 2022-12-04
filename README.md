@@ -1,5 +1,5 @@
-# `username: username`
-# `passowrd: password`
+## `username: username`
+## `passowrd: password`
 
 # Getting Started with Create React App
 
@@ -22,7 +22,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ###    Installs all the required packages listed in [package.json]
 
 ## 4] Run the Project
-###   `npm run dev`
+##   `npm run dev`
 ###    runs two scripts concurrently
 ###    `npm run start` to start the web app
 ###    `npm run server` to run the server
