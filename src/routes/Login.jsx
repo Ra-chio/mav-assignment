@@ -52,14 +52,17 @@ export default function Login() {
 
     useEffect(() => {
         if (Object.values(error).length === 0 && submitted) {
+            localStorage.setItem("login", true);
             navigate("/employee-directory");
+        } else {
+            localStorage.setItem("login", false);
         }
     }, [error, submitted, navigate]);
 
     const handleSubmit = (event) => {
         event.preventDefault();
-
         setError(userValidation(input));
+        //   console.log(localStorage.getItem("token"));
         setSubmitted(true);
         setUserData({ username: "", password: "" });
     };
